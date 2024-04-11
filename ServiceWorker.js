@@ -1,9 +1,9 @@
 const cacheName = "Bastet Games-ChessNations-0.8.0";
 const contentToCache = [
-    "Build/ChessNations.loader.js",
-    "Build/ChessNations.framework.js.gz",
-    "Build/ChessNations.data.gz",
-    "Build/ChessNations.wasm.gz",
+    "Build/ChessNationsDeployment.loader.js",
+    "Build/ChessNationsDeployment.framework.js",
+    "Build/ChessNationsDeployment.data",
+    "Build/ChessNationsDeployment.wasm",
     "TemplateData/style.css"
 
 ];
