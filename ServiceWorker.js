@@ -1,4 +1,4 @@
-const cacheName = "Bastet Games-ChessNations-0.8.0";
+const cacheName = "Bastet Games-ChessNations-0.8.2";
 const contentToCache = [
     "Build/ChessNationsDeployment.loader.js",
     "Build/ChessNationsDeployment.framework.js.unityweb",
